@@ -12,7 +12,6 @@ dependencies:
   flutter:
     sdk: flutter
   pusher_beams_platform_interface: ^1.1.1
-  pusher_beams_web: ^1.1.1
   pusher_beams_android: ^1.1.2
   pusher_beams_ios: ^1.1.1
   uuid: ^4.0.0
@@ -38,8 +37,6 @@ flutter:
         default_package: pusher_beams_android
       ios:
         default_package: pusher_beams_ios
-      web:
-        default_package: pusher_beams_web
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
@@ -71,4 +68,5 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
+
 
