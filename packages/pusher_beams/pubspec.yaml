@@ -15,7 +15,7 @@ dependencies:
   pusher_beams_web: ^1.1.1
   pusher_beams_android: ^1.1.2
   pusher_beams_ios: ^1.1.1
-  uuid: ^3.0.5
+  uuid: ^4.0.0
 
 dev_dependencies:
   flutter_test:
@@ -71,3 +71,4 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
+
